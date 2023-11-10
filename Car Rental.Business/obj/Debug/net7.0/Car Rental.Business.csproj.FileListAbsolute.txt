@@ -1,0 +1,17 @@
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Business.deps.json
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Business.dll
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Business.pdb
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.dll
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\refint\Car Rental.Business.dll
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.pdb
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\ref\Car Rental.Business.dll
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Common.dll
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Data.dll
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Common.pdb
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\bin\Debug\net7.0\Car Rental.Data.pdb
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Skrivbord\CarRental\Car Rental.Business\obj\Debug\net7.0\Car Rental.Business.csproj.CopyComplete
